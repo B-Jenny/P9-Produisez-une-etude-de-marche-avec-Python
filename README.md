@@ -1,6 +1,6 @@
 Projet réalisé dans le cadre de la formation Data Analyst d'OpenClassrooms
 
-# P9-Produisez-une-tude-de-march-avec-R-ou-Python
+# P9-Produisez-une-etude-de-marche-avec-Python
 
 Objectifs : 
 - Effectuer un clustering simple
